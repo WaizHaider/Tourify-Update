@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "807621068649",
+    "project_id": "tourify-e63c0",
+    "storage_bucket": "tourify-e63c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807621068649:android:012b3c632ed6460a501ff8",
+        "android_client_info": {
+          "package_name": "com.example.tourify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807621068649-ptgqtf12ug6ef9r74gaens3mqucgo0vu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCR1KsAmiPpk_GsO3VtxHDyD_1z80GZsFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807621068649-ptgqtf12ug6ef9r74gaens3mqucgo0vu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
